@@ -1,0 +1,18 @@
+
+ul {
+	color:red;
+	background-color: white;
+} 
+nav {
+	margin-bottom: 1em;
+	height: auto;
+	
+}
+li a{
+	color:red;
+	border-radius: 10%;
+	font-family: 'Lato', sans-serif;
+}
+li a:hover{
+	color: red !important;
+}
